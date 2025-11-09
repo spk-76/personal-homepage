@@ -1,0 +1,20 @@
+the tags i used are:
+html
+head
+title
+body
+footer
+div
+section
+nav
+header
+button
+p
+ul
+li
+a
+
+i have implemented a small JS game in (Don't Open! 😼) futhermore there is a contact Me form whcih has JS implmentation and it alert the user
+
+i have used various stuff from bootstrap such as:
+hero and features
