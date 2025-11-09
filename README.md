@@ -1,10 +1,11 @@
 # Personal Homepage
 
-This repository contains my solution for CS50x Problem Set 8. The project is a personal homepage that showcases:
+This project is a personal homepage showcasing front-end web development skills, including:
 
-- Responsive design with HTML, CSS, and Bootstrap
-- Interactive elements using JavaScript
-- Semantic HTML structure for clarity and accessibility
+Responsive design with HTML, CSS, and Bootstrap
 
-It serves as a portfolio-ready project demonstrating front-end web development skills.
+Interactive elements using JavaScript
 
+Semantic HTML structure for clarity and accessibility
+
+Built as a portfolio-ready project, it demonstrates my ability to design and implement modern, accessible web interfaces.
